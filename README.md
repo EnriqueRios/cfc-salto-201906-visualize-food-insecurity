@@ -81,7 +81,7 @@ Log in or sign up for IBM's [Watson Studio](https://dataplatform.cloud.ibm.com/)
 
 ### 3. Associate a Spark service
 
-* From the project dashboard view, click the `Settings` tab, click the `+ Add service` button and choose the `Spark` option from the list.
+* From the project dashboard view, click the `Settings` tab, click the `+ Add service` button and choose the `Analytics Engine` option from the list (image shows Spark, instead select Analytics Engine)
 
 ![](https://raw.githubusercontent.com/IBM/pattern-images/master/watson-studio/add_service.png)
 
